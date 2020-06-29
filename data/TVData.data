@@ -1,0 +1,6 @@
+classes = 13
+train  = data/TVData/TVData_pic_train.lst
+valid  = data/TVData/TVData_pic_valid.lst
+names = data/TVData.names
+backup = backup
+
